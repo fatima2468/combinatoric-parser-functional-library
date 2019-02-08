@@ -1,4 +1,4 @@
-@authors: Ashutosh Mahajan, Fatima Mushtaq
+@author: Fatima Mushtaq
 @date: 3/31/2018
 
 ## Parser Combinator Project
@@ -9,7 +9,7 @@ library.
   support for parsing from a `String` input.
 
 * The library provides an implementation to a JSON parser
-  (see [json.JSON](src/main/scala/json/JSON.scala)) that
+  (see [json.JAshutosh MahajanSON](src/main/scala/json/JSON.scala)) that
   converts a string in the JSON data exchange format into an abstract
   syntax tree representation of that
   data. See [here](https://www.json.org/) for a description of the
