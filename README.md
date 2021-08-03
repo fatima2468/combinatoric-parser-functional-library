@@ -41,5 +41,4 @@ library.
   parses the token sequence to produce, e.g., an abstract syntax
   tree. This is how complex parsers are typically organized.
 
-* 
 
